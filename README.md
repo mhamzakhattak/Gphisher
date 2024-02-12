@@ -1,1 +1,1 @@
-# Gphisher
+# gmail-phisher
